@@ -12,7 +12,7 @@ function App() {
       </div>
       <h1 style={{ textTransform: "uppercase" }}>smp smk bina ikhwani</h1>
       <div className="card">
-        <p>Comming soon</p>
+        <p>Coming soon</p>
       </div>
     </>
   )
